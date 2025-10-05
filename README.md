@@ -1,6 +1,6 @@
-# Undergoing a comprehensive update...
-Will complete by 6/10/25
+# Undergoing an update...
+Will be completed by 07/10/2025
 
-QT: Quantitative Trading Strategy Backtest
+QT: Quantitative Trading Strategy Backtest Project
 
-QR: Quantitative Research and Analysis
+QR: Quantitative Research and Analysis Project
