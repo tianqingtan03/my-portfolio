@@ -1,5 +1,5 @@
 # Undergoing an update...
-Will be completed by 07/10/2025
+Will be completed by 12/10/2025
 
 QT: Quantitative Trading Strategy Backtest Project
 
