@@ -8,4 +8,4 @@ Hello! I am Tian Qing, a passionate young investor and this is the place where I
 
 I would describe myself as an analytical and independent thinker who enjoys solving complex problems through logic and structured reasoning. Analytical thinking is undoubtedly my greatest strength. I naturally enjoy dissecting complex issues, whether at the macro level, such as assessing how the Fed’s interest rate decisions affect the global economy, or at the micro level, like observing how people’s personalities shape their relationships and decisions. To be continued...
 
-If you find my profile interesting, feel free to reach out to me: tantianqing17@gmail.com  or  linkedin.com/in/tianqingtan03/
+If you find my profile interesting, feel free to reach out to me: tantianqing17@gmail.com  or  https://www.linkedin.com/in/tianqingtan03/
